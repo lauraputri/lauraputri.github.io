@@ -4,7 +4,7 @@
     <H1>Halaman pertamaku</H1>
   </head>
   <body>
-    <p>Ini adalah halaman pertamaku</title>
+    <p>Ini adalah halaman pertamaku</p>
     <H1>Nama : Yumna Aora Xanny Hartono</H1>
     <H1>NIS : 10814</H1>
     <H1>Kelas : XII TKJ 2</H1>
