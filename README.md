@@ -1,7 +1,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Halaman pertamaku</title>
+    <H1>Halaman pertamaku</H1>
   </head>
   <body>
     <p>Ini adalah halaman pertamaku</title>
